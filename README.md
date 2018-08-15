@@ -1,7 +1,10 @@
-Perfect_Watermarks
-==================
+Magento-ImageMagick
+===================
 
 A replacement for Magento's GD2 image adapter with imagemagick.
+
+This version is a branch of original Perfect_Watermarks project due to an apparently
+lack of maintenance.
 
 Requirements
 ------------
